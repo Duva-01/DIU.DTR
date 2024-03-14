@@ -54,7 +54,9 @@ Granada Cooking: Esta página ofrece diferentes servicios tales como las catas d
 
 En conclusión del análisis competitivo la mejor selección de competidor sería Granada Cooking, ya que a parte de ofrecer nuestros mismos servicios con una interfaz más usable y amigable para el usuario, también ofrece otros servicios sustitutivos y complementarios a los nuestros a unos precios muy competitivos. 
 
-[Competivive Analisys PDF](img/DTR/Competitor%20Analysis%20DTR.png)
+[Competivive Analysis PDF](P1/Competitor%20Analysis%20DTR.pdf)
+
+![Competitive Analysis](img/DTR/Competitor%20Analysis%20DTR.png)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
