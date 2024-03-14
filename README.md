@@ -31,20 +31,30 @@ Miembros
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
+![Método UX](img/Competitive.png) **1.a User Research Plan**
 -----
 
 Con este documento de planificación de investigación de usuario, se establece un enfoque estratégico y detallado para evaluar y optimizar la experiencia de usuario y usabilidad del sitio web "Vinos de Granada". Centrándose en comprender las necesidades, expectativas y desafíos de los usuarios actuales y potenciales, el plan aborda aspectos críticos como la calidad y relevancia del contenido, la estética de la interfaz, y la identificación de barreras de usabilidad. 
 
 A través de métodos de investigación cualitativos, incluyendo la etnografía y análisis de feedback directo de los usuarios, se busca generar recomendaciones concretas que mejoren la interacción y satisfacción de los usuarios, promoviendo un aumento en la fidelización del cliente y contribuyendo a los objetivos de negocio de crecimiento de ingresos y expansión del mercado.
 
-[User Reseach Plan](https://github.com/Duva-01/DIU.DTR/blob/dfbb6f4c6485586d0e264393be9356e3e9595258/P1/P1-2b%20User%20Research%20Plan%20Template.pdf)])
+[User Research Plan](https://github.com/Duva-01/DIU.DTR/blob/dfbb6f4c6485586d0e264393be9356e3e9595258/P1/P1-2b%20User%20Research%20Plan%20Template.pdf)
 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Para el análisis de competidores hemos escogido diferentes páginas que ofrezcan los mismos servicios o similares, tales como catas de vinos ferias de vinos o ambas: 
+
+La cata con botas: Esta fue la primera en la que nos fijamos ya que cuando realizas la búsqueda en Google es de las primeras que sale referenciada, lo que la convierte en una de nuestras principales competidoras ya que al ser todo online el posicionamiento SEO es clave.
+
+Feria de vinos Granada: Esta es otra página especializada en las ferias de vinos como producto sustitutivo al nuestro, lo que lo convierte en competidor también, tiene una interfaz menos usable peor un posicionamiento SEO mejor al cuadrar directamente 
+
+Granada Cooking: Esta página ofrece diferentes servicios tales como las catas de vinos, talleres, cooking partys, tiene una interfaz muy user friendly hasta el punto que cuenta con un calendario interactivo, lo único que las fechas suelen estar agotadas y precios elevados
+
+En conclusión del análisis competitivo la mejor selección de competidor sería Granada Cooking, ya que a parte de ofrecer nuestros mismos servicios con una interfaz más usable y amigable para el usuario, también ofrece otros servicios sustitutivos y complementarios a los nuestros a unos precios muy competitivos. 
+
+[Competivive Analisys PDF](img/DTR/Competitor%20Analysis%20DTR.png)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
