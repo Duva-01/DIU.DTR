@@ -38,13 +38,13 @@ Con este documento de planificación de investigación de usuario, se establece 
 
 A través de métodos de investigación cualitativos, incluyendo la etnografía y análisis de feedback directo de los usuarios, se busca generar recomendaciones concretas que mejoren la interacción y satisfacción de los usuarios, promoviendo un aumento en la fidelización del cliente y contribuyendo a los objetivos de negocio de crecimiento de ingresos y expansión del mercado.
 
-[User Research Plan](https://github.com/Duva-01/DIU.DTR/blob/dfbb6f4c6485586d0e264393be9356e3e9595258/P1/P1-2b%20User%20Research%20Plan%20Template.pdf)
+Adjunto el documento: [User Research Plan](P1/P1-2b%20User%20Research%20Plan%20Template.pdf)
 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Para el análisis de competidores hemos escogido diferentes páginas que ofrezcan los mismos servicios o similares, tales como catas de vinos ferias de vinos o ambas: 
+Para el análisis de competidores hemos escogido diferentes páginas que ofrezcan los mismos servicios o similares, tales como catas de vinos ferias de vinos o ambas: 
 
 La cata con botas: Esta fue la primera en la que nos fijamos ya que cuando realizas la búsqueda en Google es de las primeras que sale referenciada, lo que la convierte en una de nuestras principales competidoras ya que al ser todo online el posicionamiento SEO es clave.
 
@@ -54,28 +54,44 @@ Granada Cooking: Esta página ofrece diferentes servicios tales como las catas d
 
 En conclusión del análisis competitivo la mejor selección de competidor sería Granada Cooking, ya que a parte de ofrecer nuestros mismos servicios con una interfaz más usable y amigable para el usuario, también ofrece otros servicios sustitutivos y complementarios a los nuestros a unos precios muy competitivos. 
 
-[Competivive Analysis PDF](P1/Competitor%20Analysis%20DTR.pdf)
+Adjunto el documento: [Competivive Analysis PDF](P1/Competitor%20Analysis%20DTR.pdf)
 
 ![Competitive Analysis](img/DTR/Competitor%20Analysis%20DTR.png)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Luis Lozano, enólogo de 42 años en Logroño, es un apasionado del vino, dedicado a mejorar su calidad y a compartir su conocimiento. Sociable y extrovertido, Luis se preocupa por la autenticidad y la ética en la industria del vino. Planea visitar bodegas andaluzas para degustar y conocer en profundidad los vinos, reflejando su enfoque práctico y su deseo de interacción con marcas genuinas y de calidad.
+
+![Persona 1](img/DTR/Persona1.png)
+
+Lucía Herrerías, una jubilada española de 69 años residente en Murcia, disfruta de su pasión por el vino y las relaciones sociales. Viajera y entusiasta, busca compartir experiencias en ferias vinícolas y encontrar vinos que sorprendan a su marido. A pesar de su preocupación por la salud de su hijo y su dependencia económica de la pensión, Lucía se mantiene activa en la comunidad vinícola, esperando que la tecnología le facilita seguir participando en eventos y fortalecer su círculo social. Con un carácter abierto y colaborativo, tiene habilidades de empatía y comunicación, y confía en marcas como La Sportiva, García Carrion y Eileen Fisher.
+
+![Persona 2](img/DTR/Persona2.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Elegimos la experiencia de Luis Lozano para ilustrar las dificultades cotidianas que enfrentan incluso usuarios técnicos al navegar por sitios web de turismo vinícola. A pesar de su conocimiento y pasión por el vino, Luis se topa con páginas poco intuitivas y con información insuficiente, un problema recurrente que afecta la experiencia de reserva en línea y demuestra la necesidad de mejorar la accesibilidad y comprensión en las plataformas digitales. 
+
+![User Journey 1](img/DTR/UserJourney1.png)
+
+La experiencia de Lucia Herrerias refleja un desafío común para muchas personas de su edad: la lucha por encontrar y reservar rutas de vino en línea. A sus 69 años, Lucia enfrenta obstáculos tecnológicos que complican lo que debería ser una reserva sencilla. Aunque cuenta con la ayuda de una amiga y eventualmente logra su objetivo, el proceso evidencia la necesidad de sitios web más accesibles y comprensibles, especialmente para los usuarios senior que desean participar en el enoturismo sin la frustración de la tecnología.
+
+![User Journey 2](img/DTR/UserJourney2.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Tras el análisis de experiencia de usuario vamos a comentar algunos puntos a mejorar propuestos por nosotros como expertos en usabilidad:
+
+Interfaz pobremente adaptable: Como se comenta en el Usability-review la interfaz es muy poco adaptable y se acopla malamente a las herramientas del browser, cuando no se encuentra en pantalla completa los menús desplegables de arriba muchas veces no funcionan, al utilizar las flechas de alante y atras dejan de funcionar algunos menus, etc…
+
+Herramientas: Añadir algunas herramientas como las que cuentan los competidores ayudaría mucho, como puede ser un elemento search o incluso un calendario interactivo, que dado que muchas de las personas que acceden a la web son personas muy poco hechas a las tecnología, sería de gran utilidad.
+
+Estos no son todos, sino algunos de los puntos a mejorar que se pueden ver más reflejados en el documento de usabilidad, para que la página web aporte más valor a los clientes objetivos y se les facilite la experiencia de uso maximizando nuestro beneficio. 
+
+Adjunto el documento: [Usability Review](P1/Usability-review.xlsx%20-%20Usability%20scores.pdf)
 
 
 ## Paso 2. UX Design  
