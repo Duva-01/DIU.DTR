@@ -34,7 +34,11 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+Con este documento de planificación de investigación de usuario, se establece un enfoque estratégico y detallado para evaluar y optimizar la experiencia de usuario y usabilidad del sitio web "Vinos de Granada". Centrándose en comprender las necesidades, expectativas y desafíos de los usuarios actuales y potenciales, el plan aborda aspectos críticos como la calidad y relevancia del contenido, la estética de la interfaz, y la identificación de barreras de usabilidad. 
+
+A través de métodos de investigación cualitativos, incluyendo la etnografía y análisis de feedback directo de los usuarios, se busca generar recomendaciones concretas que mejoren la interacción y satisfacción de los usuarios, promoviendo un aumento en la fidelización del cliente y contribuyendo a los objetivos de negocio de crecimiento de ingresos y expansión del mercado.
+
+[Competivive Analisys PDF]([DIU.DTR/blob/master/P1/P1-2b%20User%20Research%20Plan%20Template.pdf])
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
