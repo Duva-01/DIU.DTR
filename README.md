@@ -38,7 +38,7 @@ Con este documento de planificación de investigación de usuario, se establece 
 
 A través de métodos de investigación cualitativos, incluyendo la etnografía y análisis de feedback directo de los usuarios, se busca generar recomendaciones concretas que mejoren la interacción y satisfacción de los usuarios, promoviendo un aumento en la fidelización del cliente y contribuyendo a los objetivos de negocio de crecimiento de ingresos y expansión del mercado.
 
-[User Reseach Plan]([P1/P1-2b User Research Plan Template.pdf])
+[User Reseach Plan](https://github.com/Duva-01/DIU.DTR/blob/dfbb6f4c6485586d0e264393be9356e3e9595258/P1/P1-2b%20User%20Research%20Plan%20Template.pdf)])
 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
