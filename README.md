@@ -100,41 +100,61 @@ Adjunto el documento: [Usability Review](P1/Usability-review.xlsx%20-%20Usabilit
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
+![Empathy Map](./img/DTR/Empathy%20Map.png)
+
+Adjunto el documento: [Empathy Map](P2/Empathy%20Map.pdf)
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
+Interesante | Críticas
+------------ | -------------
+La personalización y la interacción comunitaria han emergido como aspectos cruciales. Los usuarios valoran una experiencia adaptada a sus preferencias y la oportunidad de conectar con otros con intereses similares. | Podría existir una necesidad de mejorar la integración entre las diferentes funcionalidades ofrecidas y asegurar que la interfaz sea lo más intuitiva posible para facilitar la navegación.
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
+Preguntas | Nuevas ideas
+------------ | -------------
+¿Cómo podemos fomentar aún más la participación de los usuarios en la creación de contenido? ¿De qué manera podemos garantizar que la experiencia sea inclusiva y atractiva para un espectro más amplio de usuarios? | Incorporar elementos gamificados para incentivar la participación y el compromiso. Explorar la implementación de funcionalidades de realidad aumentada para enriquecer las experiencias virtuales y las interacciones dentro de la aplicación.
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
+Actualmente, muchas personas buscan formas más sostenibles y comunitarias de consumir productos y servicios. Sin embargo, encuentran barreras en la falta de plataformas que faciliten de manera efectiva el intercambio y la colaboración.
+
+Nuestra aplicación une a personas con intereses y necesidades complementarias, promoviendo un intercambio seguro y eficiente de bienes y servicios, y fomentando una comunidad sostenible y conectada.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![Scope Canvas](./img/DTR/scope_canvas.png)
+
+Adjunto el documento: [Propuesta de Valor](./Propuesta%20de%20Valor.pdf)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+* User task Matrix:
+
+![User Task Matrix](./img/DTR/user_task_matrix.png)
+
+* User flow:
+
+![User Flow](./img/DTR/user_flow.png)
+
+Adjunto el documento: [Task Analysis](P2/Task%20Analysis.pdf)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+* Sitemap:
 
->>> Identificar términos para diálogo con usuario  
+![SiteMap](P2/siteMap.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+* Labelling:
+
+![Labelling 1](./img/DTR/labelling1.png)
+![Labelling 2](./img/DTR/labelling2.png)
+
+Adjunto el documento: [Labelling](P2/Labelling.pdf)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
