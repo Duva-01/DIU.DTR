@@ -2,7 +2,7 @@
 
 ### Ideación
 
-> > > Tras un profundo análisis de las necesidades y percepciones de los usuarios, basado en el método de mapeo de empatía, se ha rediseñado la aplicación web de rutas vinícolas (https://rutadelosvinosdegranada.com/) para ofrecer una experiencia altamente personalizada y comunitaria.
+> > > Tras un profundo análisis de las necesidades y percepciones de los usuarios, basado en el método de mapeo de empatía, se ha diseñado una interfaz que se ajusta a las necesidades, miedos y percepción de nustros clientes objetivos, basándonos también en el estudio previo realizado de los usuarios de la página vinícola, para así ofrecer una experiencia altamente personalizada y comunitaria.
 
 > > > Reconociendo la importancia de la interacción y la creación de contenido por parte de los usuarios, la nueva plataforma permite a cada individuo tener su perfil personal con el cual puede interactuar con otros miembros, compartir experiencias, y organizar o unirse a actividades según sus intereses.
 
@@ -58,6 +58,30 @@ Adjunto el documento: [Task Analysis](./Task%20Analysis.pdf)
 Adjunto el documento: [Labelling](./Labelling.pdf)
 
 ### Prototipo Lo-FI Wireframe
+
+ 0. Pagina de inicio. Es lo primero que vera el cliente al ingresar en la web, esta se encuentra dividida en 3 apartados.
+   
+     -  El header. Es donde encontrara el contacto con la empresa y la informacion del usuario. En caso de no esta loggeado se le dara la opcion de hacerlo o registrarse.  
+     -  El cuerpo de la pagina. Donde encontraremos dos opciones de busqueda, una de libros y otra de actividades.
+     -  El footer. Donde encontraremos la fecha y el nombre de la empresa.
+    
+  ![Pagina Inicio](../img/DTR/pagina_inicio.png) 
+
+  1.  Pagina de busqueda. En esta pagina se vera reflejado la busqueda que el usuario haya realizado. Se mostraran los resultados de la busqueda.
+
+  ![Pagina Busqueda](../img/DTR/pagina_busqueda.png)
+
+  2. Pagina del libro. En esta pagina se mostrara la informacion del libro seleccionado. Se mostrara la portada, el autor, la sinopsis y las opiniones de otros usuarios ademas de los descuentos el librerias y bibliotecas.
+   
+  ![Pagina Libro](../img/DTR/pagina_libro.png)
+
+  3. Pagina de error. En caso de que el usuario haya introducido mal la url, la pagina no exista o no haya realizado una busqueda buena, se le mostrara esta pagina.
+
+  ![Pagina Error](../img/DTR/pagina_error.png)
+
+  Adjunto el enlace a figma: [Figma](https://www.figma.com/file/qEP9glMiLshkkfkJB93ScF/Wireframe?type=design&node-id=0%3A1&mode=design&t=3d7NE4JuWzdIWBuE-1)
+
+  Adjunto el pdf del wireframe: [Wireframe](Wireframe.pdf)
 
 ### Conclusiones
 

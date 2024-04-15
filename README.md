@@ -162,6 +162,29 @@ Adjunto el documento: [Labelling](P2/Labelling.pdf)
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
+ 0. Pagina de inicio. Es lo primero que vera el cliente al ingresar en la web, esta se encuentra dividida en 3 apartados.
+   
+     -  El header. Es donde encontrara el contacto con la empresa y la informacion del usuario. En caso de no esta loggeado se le dara la opcion de hacerlo o registrarse.  
+     -  El cuerpo de la pagina. Donde encontraremos dos opciones de busqueda, una de libros y otra de actividades.
+     -  El footer. Donde encontraremos la fecha y el nombre de la empresa.
+    
+  ![Pagina Inicio](img/DTR/pagina_inicio.png) 
+
+  1.  Pagina de busqueda. En esta pagina se vera reflejado la busqueda que el usuario haya realizado. Se mostraran los resultados de la busqueda.
+
+  ![Pagina Busqueda](img/DTR/pagina_busqueda.png)
+
+  2. Pagina del libro. En esta pagina se mostrara la informacion del libro seleccionado. Se mostrara la portada, el autor, la sinopsis y las opiniones de otros usuarios ademas de los descuentos el librerias y bibliotecas.
+   
+  ![Pagina Libro](img/DTR/pagina_libro.png)
+
+  3. Pagina de error. En caso de que el usuario haya introducido mal la url, la pagina no exista o no haya realizado una busqueda buena, se le mostrara esta pagina.
+
+  ![Pagina Error](img/DTR/pagina_error.png)
+
+  Adjunto el enlace a figma: [Figma](https://www.figma.com/file/qEP9glMiLshkkfkJB93ScF/Wireframe?type=design&node-id=0%3A1&mode=design&t=3d7NE4JuWzdIWBuE-1)
+
+  Adjunto el pdf del wireframe: [Wireframe](./P2/Wireframe.pdf)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
