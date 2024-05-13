@@ -169,37 +169,72 @@ Adjunto el documento: [Labelling](P2/Labelling.pdf)
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Adjunto el documento: [Moodboard](./P3/ALL-Moodboard[2024]%20(Copy).pdf)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
+![Moodboard](./img/DTR/ALL-Moodboard[2024]%20(Copy).jpg)
+
+La herramienta utilizada es:
+
+https://www.designevo.com/es/logo-maker/
+
+La resolución del logo es 500x500px. Para utilizarlo para la cabecera de Twitter utilizaría el logo principal, sin embargo, también puedo utilizar el secundario.
+
+![Logotipo](./img/DTR/logos.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+Adjunto el documento: [LandingPage](./P3/LandingPage.pdf)
+
+![Landing Page](./img/DTR/LandingPage.png)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+El objetivo principal que se persigue en la selección de los distintos elementos es conseguir una interfaz sencilla e intuitiva, la cual sea fácilmente reconocible. Por ello elegimos en primer lugar el paquete de Google Material design 3 y sus líneas elegantes y simples.
+
+Tras seleccionar cada elemento se modifican sus colores, y en ocasiones sus formas, para que se ajuste a lo determinado en el moodboard (paleta de colores, inspiración, tipografía...)
+
+Los patrones utilizados para esta práctica son:
+
+* **Onboarding**. Pantalla que encuentra un usuario al usar la aplicación. En ella se usa el azul característico del club además de un fondo de color blanco para dejar que respire la pantalla. También se encuentra, en grande, una frase positiva que motiva al usuario a usar la aplicación.
+
+* **Menú de navegación**. Se emplea el menú de navegación propio de Google Material de 4 opciones. Para el club de lectura se adaptan los iconos usando unos cuyos significados sean fácilmente reconocibles:
+
+* **Iconos de barra de navegación**. Utilizamos los iconos proporcionados por el Material 4 que más se adaptan a nuestra interfaz amigable e intuitiva, seguida durante todo el proyecto. 
+
+* **Carrusel de imagenes**. Para hacer más intuitiva nuestra página de inicio, hemos introduco en esta un carrusel con algunas de las imagenes, actividades y lecturas mas destacadas.
+
+* **Wizards**. Para ayudar en la decripción de las distintas interfaces de usuario de nuestro proyecto, utilizamos Wizards, con descripciones representativas de cada una de estas.
+
+* **Lista Card**. Para ayudar al usuario a encontrar su actividad o lectura favorito hacemos uso de las listas proporcionadas por el Material 3, tanto en la pagina de inicio como en los listados,dandole los colores representativos de nuestro proyecto y nuestra tipologia.
+
+* **List item**. Los distintos elementos que se muestran dentro de las listas se proporcionan con una interfaz priorizando la facilidad de entendimiento de nuestros usuarios, nuevamente extraido de las opciones de Guidelines de Material 3, con un nombre descriptivo, imagen representativa, caracteristica y opcion de saber más.
+
+* **Input Form**. Otro elemento adaptado a nuestra aplicacion que proporciona la libreria de Materials 3 es en de los formularios, el cual hemos utilizado dandole nuestros colores caracteristicos, para poder realizar inicios de sesión y registros de usuarios. 
+
+Adjunto el documento: [Guidelines](./P3/Guidelines.pdf)
+
+![Método UX](./img/DTR/Guidelines.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+Adjunto el documento: [Layout HI-FI](./P3/Layout%20HI-FI.pdf)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+Para ver el proyecto en general:
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+https://www.figma.com/file/vM1tIAkkYpMMqKyg0TshBB/Layout-(Copy)?type=design&node-id=509%3A4589&mode=design&t=PgZYdIpCUBO9bNQl-1
 
+Para ver el prototipo (Utilizar el modo pantalla completa para mejorar la experiencia):
+
+https://www.figma.com/proto/vM1tIAkkYpMMqKyg0TshBB/Layout-(Copy)?type=design&node-id=519-25206&t=R6UeQsRLavLLE7CW-1&scaling=scale-down-width&page-id=509%3A4589&starting-point-node-id=521%3A21765&mode=design
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
