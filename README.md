@@ -259,6 +259,93 @@ Para ver el prototipo (Utilizar el modo pantalla completa para mejorar la experi
 
 https://www.figma.com/proto/vM1tIAkkYpMMqKyg0TshBB/Layout-(Copy)?type=design&node-id=519-25206&t=R6UeQsRLavLLE7CW-1&scaling=scale-down-width&page-id=509%3A4589&starting-point-node-id=521%3A21765&mode=design
 
+## Paso 4. Evaluación 
+
+![Método UX](img/ABtesting.png) 
+
+### 4.a Caso asignado
+
+El caso asignado es la evaluación del proyecto "Amigos Solidarios". Este proyecto consiste en la realización de una página web perteneciente a una organización sin ánimo de lucro que busca la realización de actividades sociales de todo tipo y en todos los niveles de la sociedad. Para ello, se pretende crear un sistema con un amplio catálogo de actividades y un sistema de búsqueda eficaz para permitir al usuario realizar un uso fácil de la página y motivar al usuario para que participe en las actividades propuestas, además de incluir una manera de contactar e informar de nuevas actividades que podrían realizarse.
+
+[Enlace a GITHUB del proyecto](https://github.com/Yak-madrugador/DIU1.Yak-Madrugador/tree/master)
+
+![Método UX](img/usability-testing.png) 
+
+### 4.b User Testing
+
+Para la realización del role play se han simulado 4 tipos de usuarios ficticios con diferentes características. Se han expresado las ideas de posibles situaciones conflictivas de cada persona en las propuestas evaluadas. A continuación se detallan los usuarios asignados a cada caso (A/B):
+
+| Usuarios      | Sexo/Edad | Ocupación  | Exp.TIC | Personalidad | Plataforma | TestA/B |
+|---------------|-----------|------------|---------|--------------|------------|---------|
+| María         | M / 45    | Oficinista | Media   | Emocional    | Web        | A       |
+| Juan          | H / 38    | Estudiante | Alta    | Racional     | Web        | A       |
+| Ana           | M / 25    | Estudiante | Alta    | Extrovertida | Móvil      | B       |
+| Manuel        | H / 70    | Jubilado   | Baja    | Meticuloso   | Web        | B       |
+
+#### Situaciones conflictivas:
+
+- **María:** Necesita coordinar actividades familiares de manera eficiente. Se frustra cuando la plataforma no es intuitiva.
+- **Juan:** Busca cursos de idiomas. Encuentra problemas de accesibilidad y desea más opciones de cursos.
+- **Ana:** Disfruta de eventos sociales y fotografía. Quiere opciones fáciles para encontrar actividades y compartir fotos.
+- **Manuel:** Requiere una interfaz sencilla para gestionar sus actividades diarias. Se siente decepcionado cuando la plataforma no es lo suficientemente clara.
+
+![Método UX](img/Survey.png) 
+
+### 4.c Cuestionario SUS
+
+Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello, usamos la [hoja de cálculo](./P4/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados siguiendo las pautas para usar la escala SUS e interpretar los resultados.
+
+
+![Resultados SUS](./img/DTR/CuestionarioSUS.png)
+
+### 4.d Usability Report
+
+#### Reporte de Usabilidad para "Amigos Solidarios"
+
+El equipo DTR ha desarrollado este informe evaluando el proyecto "Amigos Solidarios". Nuestra experiencia abarca diversas áreas del diseño y desarrollo web, incluyendo la creación de interfaces de usuario intuitivas y atractivas, así como la implementación de sistemas de navegación eficientes y accesibles.
+
+En general, el diseño del proyecto "Amigos Solidarios" es visualmente atractivo y funcional, con una paleta de colores coherente que facilita la navegación y mejora la experiencia del usuario. Sin embargo, hemos identificado varios problemas que afectan la usabilidad:
+
+1. **Visibilidad de la Barra de Navegación:** La barra de navegación no es suficientemente destacada, lo que dificulta que los usuarios la encuentren y utilicen eficientemente.
+2. **Atención al Footer:** La carga del contenido principal desvía la atención del usuario del footer, sugiriendo la necesidad de optimizar el diseño.
+3. **Diferenciación Visual en el Formulario de Registro:** Los campos del formulario podrían beneficiarse de una mayor diferenciación visual para evitar confusiones.
+4. **Consistencia y Facilidad de Uso:** Los usuarios percibieron inconsistencias en el diseño y encontraron la plataforma complicada de usar en comparación con otras aplicaciones.
+
+#### Resultados de Eye Tracking
+
+El análisis de eye tracking proporcionó información detallada sobre los patrones de visualización de los usuarios mientras navegaban por el sitio web:
+
+1. **Pantalla de Inicio:** Los botones de inicio de sesión y de menú no captaron la atención necesaria. Los usuarios se centraron en las imágenes y texto de la tarjeta de actividad.
+2. **Menú de Navegación:** El menú carece de información visual atractiva y utiliza etiquetas pequeñas, dificultando su uso.
+3. **Formulario de Registro:** El botón para enviar el formulario no llama suficientemente la atención y se pierde en el diseño.
+4. **Selección de Fechas:** El calendario carece de diferenciación visual suficiente para destacar elementos importantes.
+5. **Información de Actividades:** La información dividida en recuadros puede parecer inconexa, dificultando la comprensión.
+
+### Valoración Personal
+
+**Puntos Positivos a Destacar:**
+
+- **Diseño Atractivo:** Visualmente atractivo con una paleta de colores coherente.
+- **Funcionalidades Útiles:** La selección de fechas mediante un calendario y la sección de detalles de actividades son útiles y bien implementadas.
+- **Proceso de Registro Intuitivo:** El formulario de registro facilita la inscripción a nuevas actividades.
+
+**Puntos de Mejora:**
+
+1. **Mejorar la Visibilidad de la Barra de Navegación:** Hacerla más destacada y accesible.
+2. **Optimizar el Footer:** Asegurar que reciba la atención adecuada.
+3. **Diferenciación Visual en el Formulario de Registro:** Mejorar los campos del formulario para evitar confusiones.
+4. **Consistencia en el Diseño:** Asegurar una mayor consistencia en la plataforma.
+5. **Mejoras en Accesibilidad:** Realizar ajustes para mejorar la navegación para usuarios con discapacidades.
+6. **Aumentar la Visibilidad de Botones Críticos:** Destacar los botones de inicio de sesión, menú y envío del formulario.
+7. **Simplificar el Menú de Navegación:** Reducir el número de opciones y usar íconos junto a las etiquetas para mejorar la navegación.
+
+### Valoración de la Prueba de Usabilidad (Self-Assessment)
+
+La aplicación de técnicas de usabilidad como el eye tracking, A/B testing y el cuestionario SUS ha sido muy útil para detectar errores ocultos y fallos de usabilidad en la plataforma "Amigos Solidarios". Estas técnicas han proporcionado datos valiosos que han permitido identificar áreas críticas de mejora y desarrollar recomendaciones específicas para optimizar la experiencia del usuario.
+
+La diversidad en los perfiles de usuarios utilizados en las pruebas ha permitido obtener una visión amplia y detallada de cómo diferentes tipos de usuarios interactúan con la plataforma, lo que ha sido fundamental para identificar problemas de usabilidad y proponer soluciones efectivas. En general, consideramos que estas técnicas han sido efectivas para evaluar la usabilidad de la plataforma y proporcionar una base sólida para futuras mejoras.
+
+
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
 Exportación a HTML/Flutter
@@ -289,49 +376,6 @@ Resultados y valoración
 ![Resultado](img/resultadoET.png)  
 
 
-
-## Paso 4. Evaluación 
-
-
-![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
-----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.d Usability Report
-----
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
 
 
 

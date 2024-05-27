@@ -22,20 +22,20 @@
 
 [Informe realizado por el Equipo DTR]
 
-El equipo DTR ha desarrollado este informe evaluando el proyecto "Amigos Solidarios". Nuestra experiencia abarca diversas áreas del diseño y desarrollo web, incluyendo la creación de interfaces de usuario intuitivas y atractivas, así como la implementación de sistemas de navegación eficientes y accesibles. 
+El equipo DTR ha desarrollado este informe evaluando el proyecto "Amigos Solidarios". Nuestra experiencia abarca diversas áreas del diseño y desarrollo de aplicaciones móvil, incluyendo la creación de interfaces de usuario intuitivas y atractivas, así como la implementación de sistemas de navegación eficientes y accesibles. 
 
-En general, el diseño del proyecto "Amigos Solidarios" es visualmente atractivo y funcional, con una paleta de colores coherente que facilita la navegación y mejora la experiencia del usuario. La pantalla de inicio, por ejemplo, presenta de manera clara y ordenada el logo y el nombre de la organización, junto con botones de inicio de sesión y registro, y una barra de navegación que permite acceder fácilmente a diferentes secciones como actividades, galería, valoraciones, contacto y sobre nosotros. Sin embargo, hemos identificado que la visibilidad inicial de la barra de navegación podría beneficiarse de un diseño más destacado o un ajuste en su posición para mejorar la accesibilidad y usabilidad del sitio.
+En general, el diseño del proyecto "Amigos Solidarios" es visualmente atractivo y funcional, con una paleta de colores coherente. La pantalla de inicio, por ejemplo, presenta de manera clara y ordenada el logo y el nombre de la organización, junto con botones de inicio de sesión y registro, y una barra de navegación que permite acceder fácilmente a diferentes secciones como actividades, galería, valoraciones, contacto y sobre nosotros. Sin embargo, hemos identificado que la visibilidad inicial de la barra de navegación podría beneficiarse de un diseño más destacado o un ajuste en su posición para mejorar la accesibilidad y usabilidad del sitio además del potencial uso de imágenes descriptivas del apartado al que conducen sus opciones.
 
-El formulario de registro está bien diseñado para facilitar el proceso de inscripción de los usuarios a nuevas actividades. Permite a los usuarios ingresar sus datos personales, como nombre, correo electrónico, fecha y motivo de participación, de manera intuitiva y rápida. No obstante, creemos que se podría mejorar con una mayor diferenciación visual entre los campos para evitar cualquier posible confusión y asegurar una experiencia de usuario más fluida.
+El formulario de registro está bien diseñado para facilitar el proceso de inscripción de los usuarios a nuevas actividades. Permite a los usuarios ingresar sus datos personales, como nombre, correo electrónico, fecha y motivo de participación, de manera intuitiva y rápida. No obstante, creemos que se podría mejorar con una mayor diferenciación visual entre los campos y los botones para evitar cualquier posible confusión y asegurar una experiencia de usuario más fluida.
 
-Una de las funcionalidades destacadas es la selección de fechas mediante un calendario. Esta característica permite a los usuarios seleccionar la fecha de su actividad de interés de manera clara y sencilla, lo que facilita la planificación y organización de su participación. El diseño del calendario es claro y permite una navegación eficiente, ayudando a los usuarios a encontrar rápidamente la fecha que más les convenga.
+Una de las funcionalidades destacadas es la selección de fechas mediante un calendario. Esta característica permite a los usuarios seleccionar la fecha de su actividad de interés de manera clara y sencilla, lo que facilita la planificación y organización de su participación. El diseño del calendario puede llegar a ser un poco confuso debido a la similitud entre los iconos de marcado de fechas y el botón OK.
 
-Además, la sección de detalles de las actividades proporciona una descripción detallada de cada actividad disponible, incluyendo el título, una breve descripción y opciones para obtener más información o inscribirse. Esta pantalla es esencial para motivar a los usuarios a participar activamente en las actividades propuestas. Sin embargo, hemos notado que la carga del contenido principal tiende a desviar la atención del usuario del footer, lo que sugiere la necesidad de optimizar el diseño para asegurar que todas las secciones importantes del sitio web reciban la atención adecuada.
+Además, la sección de detalles de las actividades proporciona una descripción detallada de cada actividad disponible, incluyendo el título, una breve descripción y opciones para obtener más información o inscribirse. Esta pantalla es esencial para motivar a los usuarios a participar activamente en las actividades propuestas. Sin embargo, hemos notado que la carga del contenido principal tiende a desviar la atención del usuario, lo que sugiere la necesidad de optimizar el diseño para asegurar que todas las secciones importantes de la pantalla de la aplicación reciban la atención adecuada.
 
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-La idea consiste en la realización de una página web perteneciente a una organización sin ánimo de lucro que busca la realización de actividades sociales de todo tipo y en todos los niveles de la sociedad. Para ello pretenden crear un sistema con un amplio catálogo de actividades y un sistema de búsqueda eficaz para permitir al usuario realizar un uso fácil de la página y motivar al usuario para que participe en las actividades propuestas, además de incluir una manera de contactar e informar de nuevas actividades que podrían realizarse.
+La idea consiste en la realización de una aplicación móvil perteneciente a una organización sin ánimo de lucro que busca la realización de actividades sociales de todo tipo y en todos los niveles de la sociedad. Para ello pretenden crear un sistema con un amplio catálogo de actividades y un sistema de búsqueda eficaz para permitir al usuario realizar un uso fácil de la página y motivar al usuario para que participe en las actividades propuestas, además de incluir una manera de contactar e informar de nuevas actividades que podrían realizarse.
  
 
 
@@ -44,9 +44,9 @@ La idea consiste en la realización de una página web perteneciente a una organ
 
 El presente documento contiene una evaluación detallada de la usabilidad del proyecto "Amigos Solidarios", realizado por el equipo DTR. La evaluación se centra en diversos aspectos del diseño y funcionalidad del sitio web, con el objetivo de identificar problemas y proponer mejoras para optimizar la experiencia del usuario.
 
-Hemos identificado varios problemas que afectan la usabilidad. La visibilidad de la barra de navegación inicial es uno de los principales desafíos, ya que podría beneficiarse de un diseño más destacado para mejorar su accesibilidad. Además, la carga del contenido principal tiende a desviar la atención del usuario del footer, lo cual sugiere la necesidad de optimizar el diseño para asegurar que todas las secciones importantes del sitio web reciban la atención adecuada.
+Hemos identificado varios problemas que afectan la usabilidad. La visibilidad de la barra de navegación inicial es uno de los principales desafíos, ya que podría beneficiarse de un diseño más destacado para mejorar su accesibilidad.
 
-El formulario de registro es intuitivo y facilita el proceso de inscripción para nuevas actividades, pero podría mejorarse con una mayor diferenciación visual entre los campos para evitar confusiones. La funcionalidad de selección de fechas mediante un calendario está bien implementada, permitiendo a los usuarios planificar y organizar sus participaciones de manera eficiente.
+El formulario de registro es intuitivo y facilita el proceso de inscripción para nuevas actividades, pero podría mejorarse con una mayor diferenciación visual entre los campos y botones para evitar confusiones. La funcionalidad de selección de fechas mediante un calendario está bien implementada, permitiendo a los usuarios planificar y organizar sus participaciones de manera eficiente, pero podría mejorar haciendo una mayor distinción entre sus elementos.
 
 En la sección de detalles de actividades, aunque se proporciona una descripción detallada y opciones claras para obtener más información o inscribirse, es necesario asegurar que la atención del usuario no se desvíe del contenido principal. Esto implica ajustes en el diseño para que todas las secciones del sitio web, incluyendo el footer, reciban la atención adecuada.
 
@@ -88,11 +88,11 @@ El eye tracking nos ha proporcionado datos precisos sobre los patrones de visual
 
 **A/B Testing**:
 
-Realizamos A/B testing para comparar diferentes versiones de la interfaz y determinar cuál proporciona una mejor experiencia de usuario. En este proceso, se presentaron dos versiones distintas del sitio web a dos grupos de usuarios diferentes. Las versiones variaban en aspectos clave como el diseño de la barra de navegación y la disposición del contenido. Los resultados mostraron que la versión con una barra de navegación más destacada y un diseño optimizado para el footer mejoró significativamente la accesibilidad y la satisfacción del usuario.
+Realizamos A/B testing para comparar diferentes aplicaciones de temática relacionada y determinar cuál proporciona una mejor experiencia de usuario. En este proceso, se presentaron dos versiones distintas del sitio web a dos grupos de usuarios diferentes. Las versiones variaban en aspectos clave como el diseño de la barra de navegación y la disposición del contenido. Los resultados mostraron que la versión con una barra de navegación más destacada y un diseño optimizado para el footer mejoró significativamente la accesibilidad y la satisfacción del usuario.
 
 **Cuestionario SUS**:
 
-El cuestionario System Usability Scale (SUS) se utilizó para obtener una evaluación cuantitativa de la usabilidad percibida por los usuarios. Los participantes calificaron varios aspectos del sitio web, como la facilidad de uso, la coherencia del diseño y la eficiencia en la navegación. Los puntajes obtenidos del SUS nos proporcionaron una medida estándar que nos ayudó a comparar la usabilidad del sitio con otras plataformas similares.
+El cuestionario System Usability Scale (SUS) se utilizó para obtener una evaluación cuantitativa de la usabilidad percibida por los usuarios. Los participantes calificaron varios aspectos del sitio web, como la facilidad de uso o la coherencia del diseño. Los puntajes obtenidos del SUS nos proporcionaron una medida estándar que nos ayudó a comparar la usabilidad del sitio con otras plataformas similares.
 
 **Role Play**:
 
@@ -106,9 +106,9 @@ Para el caso SUS se han seleccionado dos de estas personas y se les han mostrado
 
 | Usuario | Sexo    | Edad | Ocupación    | Experiencia en internet | Plataforma           | Perfil cubierto                                                                                                          | Test | SUS  |
 |---------|---------|------|--------------|-------------------------|----------------------|------------------------------------------------------------------------------------------------------------------------|------|------|
-| María   | Femenino| 45   | Oficinista   | Media                   | Windows, Android     | Mujer de mediana edad que necesita coordinar actividades familiares de manera eficiente. Está frustrada porque la plataforma no es intuitiva. | B    | 58   |
-| Juan    | Masculino| 38  | Estudiante   | Alta                    | Windows, Android     | Hombre con discapacidad que busca cursos de idiomas. Está contento con la accesibilidad de la plataforma, pero quiere más opciones de cursos. | A    | 75   |
-| Ana     | Femenino| 25   | Estudiante   | Alta                    | iOS, Android         | Joven que disfruta de eventos sociales y fotografía. Está satisfecha con la facilidad para encontrar actividades, pero quiere mejores opciones para compartir fotos. | A    | 70   |
+| María   | Femenino| 45   | Oficinista   | Media                   | Windows, Android     | Mujer de mediana edad que necesita coordinar actividades familiares de manera eficiente. Está frustrada porque la plataforma no es intuitiva. | B    | 62.5   |
+| Juan    | Masculino| 38  | Estudiante   | Alta                    | Windows, Android     | Hombre con discapacidad que busca cursos de idiomas. Está contento con la accesibilidad de la plataforma, pero quiere más opciones de cursos. | A    | 87.5   |
+| Ana     | Femenino| 25   | Estudiante   | Alta                    | iOS, Android         | Joven que disfruta de eventos sociales y fotografía. Está satisfecha con la facilidad para encontrar actividades, pero quiere mejores opciones para compartir fotos. | A    | 90   |
 | Manuel  | Masculino| 70  | Jubilado     | Baja                    | Windows              | Hombre mayor que necesita una interfaz sencilla para gestionar sus actividades diarias. Está decepcionado porque la plataforma no es lo suficientemente clara para él. | B    | 55   |
 
 
