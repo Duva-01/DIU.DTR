@@ -2,19 +2,10 @@
 
 ### Ideación
 
-> > > Tras un profundo análisis de las necesidades y percepciones de los usuarios, basado en el método de mapeo de empatía, se ha diseñado una interfaz que se ajusta a las necesidades, miedos y percepción de nustros clientes objetivos, basándonos también en el estudio previo realizado de los usuarios de la página vinícola, para así ofrecer una experiencia altamente personalizada y comunitaria.
-
-> > > Reconociendo la importancia de la interacción y la creación de contenido por parte de los usuarios, la nueva plataforma permite a cada individuo tener su perfil personal con el cual puede interactuar con otros miembros, compartir experiencias, y organizar o unirse a actividades según sus intereses.
-
-> > > Este enfoque responde directamente a la necesidad de los usuarios de tener un espacio que se ajuste a su ritmo de vida y gustos personales, fomentando así una participación activa y el sentido de comunidad.
-
-> > > Además, se ha puesto especial énfasis en mejorar la función de búsqueda, integrando un apartado destacado en la cabecera de la aplicación para facilitar el acceso a la información deseada de manera rápida y eficiente.
-
-> > > La funcionalidad de recomendación de tours ha sido refinada para ofrecer sugerencias personalizadas basadas en las experiencias previas de los usuarios, mejorando significativamente la relevancia de las opciones presentadas y enriqueciendo la experiencia de cada usuario.
-
-> > > Estas mejoras se fundamentan en la comprensión de que los usuarios valoran una plataforma adaptable, que les permita explorar y disfrutar de actividades a su propio ritmo, en un entorno seguro y acogedor, tal como se reveló en el estudio de empatía centrado en las experiencias de lectura, pero aplicable al contexto de tours y actividades.
-
-![Empathy Map](../img/DTR/Empathy%20Map.png)
+> > > Se ha realizado un esfuerzo por conocer qué es lo que necesitan los usuarios mediante la creación de un Empathy Map.
+> > > Para ello se ha hecho un análisis de nuestra propia experiencia con la temática principal de la página: los clubes de lectura. De esta experiencia previa obtenemos como conclusión unas heurísticas a aplicar en el diseño de la página.
+> > > Por último, se investiga detenidamente qué es lo que hacen, dicen y piensan las personas actuales sobre la lectura como hobby y sobre los clubes de lectura. Así podremos detectar necesidades e insights aplicables a nuestra aplicación.
+> > > ![Empathy Map](../img/DTR/Empathy%20Map.png)
 
 Adjunto el documento: [Empathy Map](Empathy%20Map.pdf)
 
@@ -59,29 +50,29 @@ Adjunto el documento: [Labelling](./Labelling.pdf)
 
 ### Prototipo Lo-FI Wireframe
 
- 0. Pagina de inicio. Es lo primero que vera el cliente al ingresar en la web, esta se encuentra dividida en 3 apartados.
-   
-     -  El header. Es donde encontrara el contacto con la empresa y la informacion del usuario. En caso de no esta loggeado se le dara la opcion de hacerlo o registrarse.  
-     -  El cuerpo de la pagina. Donde encontraremos dos opciones de busqueda, una de libros y otra de actividades.
-     -  El footer. Donde encontraremos la fecha y el nombre de la empresa.
-    
-  ![Pagina Inicio](../img/DTR/pagina_inicio.png) 
+0.  Pagina de inicio. Es lo primero que vera el cliente al ingresar en la web, esta se encuentra dividida en 3 apartados.
 
-  1.  Pagina de busqueda. En esta pagina se vera reflejado la busqueda que el usuario haya realizado. Se mostraran los resultados de la busqueda.
+    - El header. Es donde encontrara el contacto con la empresa y la informacion del usuario. En caso de no esta loggeado se le dara la opcion de hacerlo o registrarse.
+    - El cuerpo de la pagina. Donde encontraremos dos opciones de busqueda, una de libros y otra de actividades.
+    - El footer. Donde encontraremos la fecha y el nombre de la empresa.
 
-  ![Pagina Busqueda](../img/DTR/pagina_busqueda.png)
+![Pagina Inicio](../img/DTR/pagina_inicio.png)
 
-  2. Pagina del libro. En esta pagina se mostrara la informacion del libro seleccionado. Se mostrara la portada, el autor, la sinopsis y las opiniones de otros usuarios ademas de los descuentos el librerias y bibliotecas.
-   
-  ![Pagina Libro](../img/DTR/pagina_libro.png)
+1.  Pagina de busqueda. En esta pagina se vera reflejado la busqueda que el usuario haya realizado. Se mostraran los resultados de la busqueda.
 
-  3. Pagina de error. En caso de que el usuario haya introducido mal la url, la pagina no exista o no haya realizado una busqueda buena, se le mostrara esta pagina.
+![Pagina Busqueda](../img/DTR/pagina_busqueda.png)
 
-  ![Pagina Error](../img/DTR/pagina_error.png)
+2. Pagina del libro. En esta pagina se mostrara la informacion del libro seleccionado. Se mostrara la portada, el autor, la sinopsis y las opiniones de otros usuarios ademas de los descuentos el librerias y bibliotecas.
 
-  Adjunto el enlace a figma: [Figma](https://www.figma.com/file/qEP9glMiLshkkfkJB93ScF/Wireframe?type=design&node-id=0%3A1&mode=design&t=3d7NE4JuWzdIWBuE-1)
+![Pagina Libro](../img/DTR/pagina_libro.png)
 
-  Adjunto el pdf del wireframe: [Wireframe](Wireframe.pdf)
+3. Pagina de error. En caso de que el usuario haya introducido mal la url, la pagina no exista o no haya realizado una busqueda buena, se le mostrara esta pagina.
+
+![Pagina Error](../img/DTR/pagina_error.png)
+
+Adjunto el enlace a figma: [Figma](https://www.figma.com/file/qEP9glMiLshkkfkJB93ScF/Wireframe?type=design&node-id=0%3A1&mode=design&t=3d7NE4JuWzdIWBuE-1)
+
+Adjunto el pdf del wireframe: [Wireframe](Wireframe.pdf)
 
 ### Conclusiones
 
