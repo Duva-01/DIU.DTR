@@ -51,8 +51,6 @@ Tras seleccionar cada elemento se modifican sus colores, y en ocasiones sus form
 
 Los patrones utilizados para esta práctica son:
 
-- **Onboarding**. Pantalla que encuentra un usuario al usar la aplicación. En ella se usa el azul característico del club además de un fondo de color blanco para dejar que respire la pantalla. También se encuentra, en grande, una frase positiva que motiva al usuario a usar la aplicación.
-
 - **Menú de navegación**. Se emplea el menú de navegación propio de Google Material de 4 opciones. Para el club de lectura se adaptan los iconos usando unos cuyos significados sean fácilmente reconocibles:
 
 - **Iconos de barra de navegación**. Utilizamos los iconos proporcionados por el Material 3 que más se adaptan a nuestra interfaz amigable e intuitiva, seguida durante todo el proyecto.

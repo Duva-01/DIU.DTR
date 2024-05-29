@@ -1,28 +1,22 @@
 # Usability Report
 
-
-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
 
-#### Evaluación de usabilidad del proyecto 
+#### Evaluación de usabilidad del proyecto
 
 ### Amigos Solidarios
 
 ### 27/05/2024
 
-
-
 ![Imagen Proyecto](./img/logo.jpg)
 
 [Enlace a GITHUB del proyecto](https://github.com/Yak-madrugador/DIU1.Yak-Madrugador/tree/master)
-
-
 
 ### Realizado por:
 
 [Informe realizado por el Equipo DTR]
 
-El equipo DTR ha desarrollado este informe evaluando el proyecto "Amigos Solidarios". Nuestra experiencia abarca diversas áreas del diseño y desarrollo de aplicaciones móvil, incluyendo la creación de interfaces de usuario intuitivas y atractivas, así como la implementación de sistemas de navegación eficientes y accesibles. 
+El equipo DTR ha desarrollado este informe evaluando el proyecto "Amigos Solidarios". Nuestra experiencia abarca diversas áreas del diseño y desarrollo de aplicaciones móvil, incluyendo la creación de interfaces de usuario intuitivas y atractivas, así como la implementación de sistemas de navegación eficientes y accesibles.
 
 En general, el diseño del proyecto "Amigos Solidarios" es visualmente atractivo y funcional, con una paleta de colores coherente. La pantalla de inicio, por ejemplo, presenta de manera clara y ordenada el logo y el nombre de la organización, junto con botones de inicio de sesión y registro, y una barra de navegación que permite acceder fácilmente a diferentes secciones como actividades, galería, valoraciones, contacto y sobre nosotros. Sin embargo, hemos identificado que la visibilidad inicial de la barra de navegación podría beneficiarse de un diseño más destacado o un ajuste en su posición para mejorar la accesibilidad y usabilidad del sitio además del potencial uso de imágenes descriptivas del apartado al que conducen sus opciones.
 
@@ -32,26 +26,15 @@ Una de las funcionalidades destacadas es la selección de fechas mediante un cal
 
 Además, la sección de detalles de las actividades proporciona una descripción detallada de cada actividad disponible, incluyendo el título, una breve descripción y opciones para obtener más información o inscribirse. Esta pantalla es esencial para motivar a los usuarios a participar activamente en las actividades propuestas. Sin embargo, hemos notado que la carga del contenido principal tiende a desviar la atención del usuario, lo que sugiere la necesidad de optimizar el diseño para asegurar que todas las secciones importantes de la pantalla de la aplicación reciban la atención adecuada.
 
-
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
 La idea consiste en la realización de una aplicación móvil perteneciente a una organización sin ánimo de lucro que busca la realización de actividades sociales de todo tipo y en todos los niveles de la sociedad. Para ello pretenden crear un sistema con un amplio catálogo de actividades y un sistema de búsqueda eficaz para permitir al usuario realizar un uso fácil de la página y motivar al usuario para que participe en las actividades propuestas, además de incluir una manera de contactar e informar de nuevas actividades que podrían realizarse.
- 
-
-
 
 ## 2 RESUMEN EJECUTIVO
 
-El presente documento contiene una evaluación detallada de la usabilidad del proyecto "Amigos Solidarios", realizado por el equipo DTR. La evaluación se centra en diversos aspectos del diseño y funcionalidad del sitio web, con el objetivo de identificar problemas y proponer mejoras para optimizar la experiencia del usuario.
+En general se plantea una interfaz de usuario casi aceptable con una paleta de colores coherente con el mensaje a transmitir. Sin embargo, presenta problemas respecto al menú de navegación, el cual no posee de iconos en los botones y solo dispone de etiquetas las cuales los usuarios no llegan a leer además de ser poco visible, poca diferenciación entre botones y campos de formulario o tarjetas con contenido al implementar demasiado la paleta de colores en botones clave y no resaltarlos lo suficiente con colores distintos (botón para cerrar campos de texto o botón OK en el calendario). Por último, los botones de inicio de sesión y footer tampoco son observados por norma general por los usuarios. Aplicando colores distintos y llamativos además de imágenes indicativas en el menú pueden suponer una gran mejora de la interfaz, convirtiéndose en una aplicación con una interfaz mucho más fácil de usar.
 
-Hemos identificado varios problemas que afectan la usabilidad. La visibilidad de la barra de navegación inicial es uno de los principales desafíos, ya que podría beneficiarse de un diseño más destacado para mejorar su accesibilidad.
-
-El formulario de registro es intuitivo y facilita el proceso de inscripción para nuevas actividades, pero podría mejorarse con una mayor diferenciación visual entre los campos y botones para evitar confusiones. La funcionalidad de selección de fechas mediante un calendario está bien implementada, permitiendo a los usuarios planificar y organizar sus participaciones de manera eficiente, pero podría mejorar haciendo una mayor distinción entre sus elementos.
-
-En la sección de detalles de actividades, aunque se proporciona una descripción detallada y opciones claras para obtener más información o inscribirse, es necesario asegurar que la atención del usuario no se desvíe del contenido principal. Esto implica ajustes en el diseño para que todas las secciones del sitio web, incluyendo el footer, reciban la atención adecuada.
-
-
-## 3 METODOLOGIA 
+## 3 METODOLOGIA
 
 ## Usuarios ficticios + Rol Play
 
@@ -60,25 +43,21 @@ Para la realización del role play se han simulado 4 tipos de usuarios de manera
 ![Dados](../img/DTR/dados.png)
 Se han obtenido las siguientes personas:
 
-- **Persona 1 (5,4,2)**: 
+- **Persona 1 (5,4,2)**:
   María es una mujer de mediana edad que trabaja en una oficina y siempre está pendiente del tiempo debido a sus múltiples reuniones y citas. Tiene una familia a la que le gusta llevar a actividades al aire libre. María necesita una plataforma que le permita planificar y coordinar actividades familiares de manera eficiente.
 
-- **Persona 2 (4,2,1)**: 
+- **Persona 2 (4,2,1)**:
   Juan es un hombre con discapacidad que necesita desplazarse en silla de ruedas. Le gusta aprender nuevos idiomas y está constantemente buscando cursos en línea. Juan necesita una plataforma accesible que le permita inscribirse en cursos de idiomas sin complicaciones.
 
-- **Persona 3 (3,4,4)**: 
+- **Persona 3 (3,4,4)**:
   Ana es una joven que disfruta de pasar tiempo con sus amigos y asistir a eventos sociales. Ella siempre está al tanto de su horario y le gusta tomar fotografías de los momentos compartidos. Ana necesita una plataforma que le permita descubrir y reservar actividades sociales de manera rápida y sencilla.
 
-- **Persona 4 (6,1,4)**: 
+- **Persona 4 (6,1,4)**:
   Manuel es un hombre mayor que necesita usar un bastón para caminar. Pasa mucho tiempo trabajando en su escritorio y le gusta estar bien organizado con sus tareas diarias. Manuel necesita una plataforma que le ofrezca una interfaz sencilla para gestionar sus actividades diarias y recordatorios.
-
-  
 
 ## Cuestionario SUS + Conclusiones A/B test
 
 #### Metodología de usabililidad
-
-**Metodología de usabilidad**:
 
 Para evaluar la usabilidad del proyecto "Amigos Solidarios", hemos aplicado una combinación de técnicas que incluyen eye tracking, A/B testing y un cuestionario SUS. Estas metodologías nos han permitido obtener una visión integral de cómo los usuarios interactúan con la plataforma y detectar áreas de mejora.
 
@@ -97,84 +76,76 @@ El cuestionario System Usability Scale (SUS) se utilizó para obtener una evalua
 **Role Play**:
 
 Para enriquecer nuestras pruebas, implementamos una situación de role play en la que los usuarios simularon diferentes perfiles con necesidades específicas. Esto incluyó a usuarios con diversas edades, habilidades y expectativas, como un oficinista que necesita coordinar actividades familiares, una persona con discapacidad que busca accesibilidad, una joven que disfruta de eventos sociales, y un adulto mayor que requiere una interfaz sencilla. Esta diversidad en los perfiles nos permitió evaluar cómo la plataforma satisface las necesidades de diferentes tipos de usuarios.
- 
 
 #### Test de usuarios: Participantes
 
 Para el casos SUS se han seleccionado dos de estas personas y se les han mostrado ambas interfaces
 Para el caso SUS se han seleccionado dos de estas personas y se les han mostrado ambas interfaces
 
-| Usuario | Sexo    | Edad | Ocupación    | Experiencia en internet | Plataforma           | Perfil cubierto                                                                                                          | Test | SUS  |
-|---------|---------|------|--------------|-------------------------|----------------------|------------------------------------------------------------------------------------------------------------------------|------|------|
-| María   | Femenino| 45   | Oficinista   | Media                   | Windows, Android     | Mujer de mediana edad que necesita coordinar actividades familiares de manera eficiente. Está frustrada porque la plataforma no es intuitiva. | B    | 62.5   |
-| Juan    | Masculino| 38  | Estudiante   | Alta                    | Windows, Android     | Hombre con discapacidad que busca cursos de idiomas. Está contento con la accesibilidad de la plataforma, pero quiere más opciones de cursos. | A    | 87.5   |
-| Ana     | Femenino| 25   | Estudiante   | Alta                    | iOS, Android         | Joven que disfruta de eventos sociales y fotografía. Está satisfecha con la facilidad para encontrar actividades, pero quiere mejores opciones para compartir fotos. | A    | 90   |
-| Manuel  | Masculino| 70  | Jubilado     | Baja                    | Windows              | Hombre mayor que necesita una interfaz sencilla para gestionar sus actividades diarias. Está decepcionado porque la plataforma no es lo suficientemente clara para él. | B    | 55   |
-
+| Usuario | Sexo      | Edad | Ocupación  | Experiencia en internet | Plataforma       | Perfil cubierto                                                                                                                                                        | Test | SUS  |
+| ------- | --------- | ---- | ---------- | ----------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- |
+| María   | Femenino  | 45   | Oficinista | Media                   | Windows, Android | Mujer de mediana edad que necesita coordinar actividades familiares de manera eficiente. Está frustrada porque la plataforma no es intuitiva.                          | B    | 62.5 |
+| Juan    | Masculino | 38   | Estudiante | Alta                    | Windows, Android | Hombre con discapacidad que busca cursos de idiomas. Está contento con la accesibilidad de la plataforma, pero quiere más opciones de cursos.                          | A    | 87.5 |
+| Ana     | Femenino  | 25   | Estudiante | Alta                    | iOS, Android     | Joven que disfruta de eventos sociales y fotografía. Está satisfecha con la facilidad para encontrar actividades, pero quiere mejores opciones para compartir fotos.   | A    | 90   |
+| Manuel  | Masculino | 70   | Jubilado   | Baja                    | Windows          | Hombre mayor que necesita una interfaz sencilla para gestionar sus actividades diarias. Está decepcionado porque la plataforma no es lo suficientemente clara para él. | B    | 55   |
 
 #### Resultados obtenidos
 
+| **CUESTIONARIO SUS ANA**                                                                    | **Valoracion User1 (entre 1-5)** |
+| ------------------------------------------------------------------------------------------- | -------------------------------- |
+| 1. Creo que me gustará visitar con frecuencia este website                                  | 5                                |
+| 2. Encontré el website innecesariamente complejo                                            | 2                                |
+| 3. Pensé que era fácil utilizar este website                                                | 5                                |
+| 4. Creo que necesitaría del apoyo de un experto para recorrer el website                    | 2                                |
+| 5. Encontré las funciones del website bastante bien integradas                              | 5                                |
+| 6. Pensé que había demasiada inconsistencia en el website                                   | 1                                |
+| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 4                                |
+| 8. Encontré el website muy grande al recorrerlo                                             | 1                                |
+| 9. Me sentí muy confiado en el manejo del website                                           | 5                                |
+| 10. Necesito aprender muchas cosas antes de manejarme en el website                         | 2                                |
+| **VALORACION FINAL**                                                                        | 90                               |
 
+| **CUESTIONARIO SUS JUAN**                                                                   | **Valoracion User2 (entre 1-5)** |
+| ------------------------------------------------------------------------------------------- | -------------------------------- |
+| 1. Creo que me gustará visitar con frecuencia este website                                  | 5                                |
+| 2. Encontré el website innecesariamente complejo                                            | 1                                |
+| 3. Pensé que era fácil utilizar este website                                                | 4                                |
+| 4. Creo que necesitaría del apoyo de un experto para recorrer el website                    | 1                                |
+| 5. Encontré las funciones del website bastante bien integradas                              | 5                                |
+| 6. Pensé que había demasiada inconsistencia en el website                                   | 2                                |
+| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 5                                |
+| 8. Encontré el website muy grande al recorrerlo                                             | 2                                |
+| 9. Me sentí muy confiado en el manejo del website                                           | 4                                |
+| 10. Necesito aprender muchas cosas antes de manejarme en el website                         | 2                                |
+| **VALORACION FINAL**                                                                        | 87.5                             |
 
-| **CUESTIONARIO SUS ANA**                                                               | **Valoracion User1 (entre 1-5)** |
-|------------------------------------------------------------------------------------|-----------------------------------|
-| 1. Creo que me gustará visitar con frecuencia este website                         | 5                                 |
-| 2. Encontré el website innecesariamente complejo                                   | 2                                 |
-| 3. Pensé que era fácil utilizar este website                                       | 5                                 |
-| 4. Creo que necesitaría del apoyo de un experto para recorrer el website           | 2                                 |
-| 5. Encontré las funciones del website bastante bien integradas                     | 5                                 |
-| 6. Pensé que había demasiada inconsistencia en el website                          | 1                                 |
-| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 4                        |
-| 8. Encontré el website muy grande al recorrerlo                                    | 1                                 |
-| 9. Me sentí muy confiado en el manejo del website                                  | 5                                 |
-| 10. Necesito aprender muchas cosas antes de manejarme en el website                | 2                                 |
-| **VALORACION FINAL**                                                               | 90                                |
+| **CUESTIONARIO SUS MARIA**                                                                  | **Valoracion User3 (entre 1-5)** |
+| ------------------------------------------------------------------------------------------- | -------------------------------- |
+| 1. Creo que me gustará visitar con frecuencia este website                                  | 2                                |
+| 2. Encontré el website innecesariamente complejo                                            | 1                                |
+| 3. Pensé que era fácil utilizar este website                                                | 4                                |
+| 4. Creo que necesitaría del apoyo de un experto para recorrer el website                    | 2                                |
+| 5. Encontré las funciones del website bastante bien integradas                              | 4                                |
+| 6. Pensé que había demasiada inconsistencia en el website                                   | 3                                |
+| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 2                                |
+| 8. Encontré el website muy grande al recorrerlo                                             | 1                                |
+| 9. Me sentí muy confiado en el manejo del website                                           | 3                                |
+| 10. Necesito aprender muchas cosas antes de manejarme en el website                         | 3                                |
+| **VALORACION FINAL**                                                                        | 62.5                             |
 
-
-| **CUESTIONARIO SUS JUAN**                                                               | **Valoracion User2 (entre 1-5)** |
-|------------------------------------------------------------------------------------|-----------------------------------|
-| 1. Creo que me gustará visitar con frecuencia este website                         | 5                                 |
-| 2. Encontré el website innecesariamente complejo                                   | 1                                 |
-| 3. Pensé que era fácil utilizar este website                                       | 4                                 |
-| 4. Creo que necesitaría del apoyo de un experto para recorrer el website           | 1                                 |
-| 5. Encontré las funciones del website bastante bien integradas                     | 5                                 |
-| 6. Pensé que había demasiada inconsistencia en el website                          | 2                                 |
-| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 5                        |
-| 8. Encontré el website muy grande al recorrerlo                                    | 2                                 |
-| 9. Me sentí muy confiado en el manejo del website                                  | 4                                 |
-| 10. Necesito aprender muchas cosas antes de manejarme en el website                | 2                                 |
-| **VALORACION FINAL**                                                               | 87.5                              |
-
-
-
-| **CUESTIONARIO SUS MARIA**                                                               | **Valoracion User3 (entre 1-5)** |
-|------------------------------------------------------------------------------------|-----------------------------------|
-| 1. Creo que me gustará visitar con frecuencia este website                         | 2                                 |
-| 2. Encontré el website innecesariamente complejo                                   | 1                                 |
-| 3. Pensé que era fácil utilizar este website                                       | 4                                 |
-| 4. Creo que necesitaría del apoyo de un experto para recorrer el website           | 2                                 |
-| 5. Encontré las funciones del website bastante bien integradas                     | 4                                 |
-| 6. Pensé que había demasiada inconsistencia en el website                          | 3                                 |
-| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 2                        |
-| 8. Encontré el website muy grande al recorrerlo                                    | 1                                 |
-| 9. Me sentí muy confiado en el manejo del website                                  | 3                                 |
-| 10. Necesito aprender muchas cosas antes de manejarme en el website                | 3                                 |
-| **VALORACION FINAL**                                                               | 62.5                              |
-
-
-| **CUESTIONARIO SUS MANUEL**                                                               | **Valoracion User4 (entre 1-5)** |
-|------------------------------------------------------------------------------------|-----------------------------------|
-| 1. Creo que me gustará visitar con frecuencia este website                         | 2                                 |
-| 2. Encontré el website innecesariamente complejo                                   | 2                                 |
-| 3. Pensé que era fácil utilizar este website                                       | 2                                 |
-| 4. Creo que necesitaría del apoyo de un experto para recorrer el website           | 4                                 |
-| 5. Encontré las funciones del website bastante bien integradas                     | 4                                 |
-| 6. Pensé que había demasiada inconsistencia en el website                          | 2                                 |
-| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 3                        |
-| 8. Encontré el website muy grande al recorrerlo                                    | 1                                 |
-| 9. Me sentí muy confiado en el manejo del website                                  | 2                                 |
-| 10. Necesito aprender muchas cosas antes de manejarme en el website                | 2                                 |
-| **VALORACION FINAL**                                                               | 55                                |
+| **CUESTIONARIO SUS MANUEL**                                                                 | **Valoracion User4 (entre 1-5)** |
+| ------------------------------------------------------------------------------------------- | -------------------------------- |
+| 1. Creo que me gustará visitar con frecuencia este website                                  | 2                                |
+| 2. Encontré el website innecesariamente complejo                                            | 2                                |
+| 3. Pensé que era fácil utilizar este website                                                | 2                                |
+| 4. Creo que necesitaría del apoyo de un experto para recorrer el website                    | 4                                |
+| 5. Encontré las funciones del website bastante bien integradas                              | 4                                |
+| 6. Pensé que había demasiada inconsistencia en el website                                   | 2                                |
+| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 3                                |
+| 8. Encontré el website muy grande al recorrerlo                                             | 1                                |
+| 9. Me sentí muy confiado en el manejo del website                                           | 2                                |
+| 10. Necesito aprender muchas cosas antes de manejarme en el website                         | 2                                |
+| **VALORACION FINAL**                                                                        | 55                               |
 
 ### Conclusión de AB Testing: Comparación de Resultados del Test SUS
 
@@ -184,22 +155,24 @@ Hemos realizado una prueba de usabilidad utilizando el cuestionario SUS (System 
 
 #### Resultados del Test SUS
 
-| **Usuario** | **Aplicación**       | **Valoración Final SUS** |
-|-------------|----------------------|--------------------------|
-| User1       | Club de lectura | 90                       |
-| User2       | Club de lectura | 87.5                     |
-| User3       | Amigos Solidarios    | 62.5                     |
-| User4       | Amigos Solidarios    | 55                       |
+| **Usuario** | **Aplicación**    | **Valoración Final SUS** |
+| ----------- | ----------------- | ------------------------ |
+| User1       | Club de lectura   | 90                       |
+| User2       | Club de lectura   | 87.5                     |
+| User3       | Amigos Solidarios | 62.5                     |
+| User4       | Amigos Solidarios | 55                       |
 
 #### Análisis de Resultados
 
 1. **Promedio de Valoraciones SUS:**
-   - **Club de lectura:** 
+
+   - **Club de lectura:**
      - Media: (90 + 87.5) / 2 = 88.75
-   - **Amigos Solidarios (ONG):** 
+   - **Amigos Solidarios (ONG):**
      - Media: (62.5 + 55) / 2 = 58.75
 
 2. **Distribución de Puntuaciones:**
+
    - **Club de lectura:**
      - Las valoraciones están muy altas y muy cercanas entre sí, lo que indica una percepción positiva y consistente de la usabilidad.
    - **Amigos Solidarios :**
@@ -219,6 +192,7 @@ Hemos realizado una prueba de usabilidad utilizando el cuestionario SUS (System 
 La aplicación móvil del club de lectura DTR muestra una usabilidad significativamente mejor que la aplicación de Amigos Solidarios. Los usuarios de DTR tienen una experiencia de usuario más positiva, sintiéndose confiados y encontrando la aplicación intuitiva y bien integrada. Por el contrario, los usuarios de Amigos Solidarios experimentan más dificultades, perciben inconsistencias y sienten que necesitan más apoyo para utilizar la aplicación.
 
 **Recomendaciones:**
+
 - **Para Amigos Solidarios:**
   - Realizar una revisión completa de la interfaz de usuario para mejorar la consistencia y la facilidad de uso.
   - Implementar tutoriales y asistencia dentro de la aplicación para ayudar a los usuarios a familiarizarse con las funciones.
@@ -228,7 +202,7 @@ En resumen, aunque ambos grupos evaluaron diferentes aplicaciones, los resultado
 
 ### Resultado de eyetracking
 
-Se ha realizado una prueba de EyeTracking sobre las diferentes pantallas creadas por el grupo Amigos Solidarios.  Para generar las áreas de interés nos hemos centrado en aquellas partes de la pantalla que resultan el eje central de la funcionalidad a evaluar.
+Se ha realizado una prueba de EyeTracking sobre las diferentes pantallas creadas por el grupo Amigos Solidarios. Para generar las áreas de interés nos hemos centrado en aquellas partes de la pantalla que resultan el eje central de la funcionalidad a evaluar.
 
 #### Pantalla 1
 
@@ -238,7 +212,7 @@ Se ha realizado una prueba de EyeTracking sobre las diferentes pantallas creadas
   <img src="./img/Persona2/Captura1.png" alt="Img" style="width:30%;">
 </p>
 
-En la pantalla inicial se definen como áreas de interés los botones de inicio de sesión y registro, el de apertura del menú de navegación así como los distintos carrusel y tarjeta de actividad. 
+En la pantalla inicial se definen como áreas de interés los botones de inicio de sesión y registro, el de apertura del menú de navegación así como los distintos carrusel y tarjeta de actividad.
 
 Las áreas de los botones de inicio de sesión y de menú no son vistos por ninguno de los usuarios al ser más difíciles de encontrar.
 
@@ -285,7 +259,6 @@ El difuminado de fondo hace que se disimule el botón de cerrar formulario, el c
 
 En esta pantalla se abre una lista de valores para rellenar en el formulario. Todos los usuarios acaban viendo rápidamente los posibles valores para ese atributo. Sin embargo, el campo que se está modificando es visto sólo por la mitad de los usuarios.
 
-
 #### Pantalla 5
 
 <p align="center">
@@ -294,7 +267,7 @@ En esta pantalla se abre una lista de valores para rellenar en el formulario. To
   <img src="./img/Persona2/Captura5.png" alt="Img" style="width:30%;">
 </p>
 
-Los usuarios visualizan claramente la parte central de la pantalla, sin embargo, el que la información de la actividad esté dividida en distintos recuadros hace parecer que es información inconexa y puede  hacer que el usuario se pierda un poco.
+Los usuarios visualizan claramente la parte central de la pantalla, sin embargo, el que la información de la actividad esté dividida en distintos recuadros hace parecer que es información inconexa y puede hacer que el usuario se pierda un poco.
 
 #### Pantalla 6
 
@@ -328,7 +301,6 @@ El análisis de eye tracking proporcionó información detallada sobre los patro
 3. **Formulario de Registro:** Aunque el contenido del formulario es claro, el botón para enviar el formulario no llama suficientemente la atención. Además, el botón de cerrar el formulario se pierde debido a la integración excesiva de la paleta de colores.
 4. **Selección de Fechas:** El calendario es funcional pero carece de diferenciación visual suficiente para destacar elementos importantes como la fecha actual y el botón de confirmación. Esto puede desorientar a los usuarios.
 5. **Información de Actividades:** La división de la información en recuadros hace que parezca inconexa, dificultando que los usuarios comprendan la información de manera fluida.
-
 
 ### Incidencias
 
